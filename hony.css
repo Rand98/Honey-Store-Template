@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    background-color: white;
+    color:black;
+    }
+
+
+    #login{
+        background-color:#ccc;
+        height: 30px;
+    }
+
+    #login a{
+        text-decoration: none;
+        float: right;
+        padding: 10px;
+        margin-left: 20px;
+    
+    }
+
+    header{
+        background-color: white;
+        height: 77px;
+        
+       
+    }
+    
+    #logo{
+        float:left;
+        margin-left: 20px;
+        margin-top: 10px;
+        line-height: 0;
+
+    }  
+    
+    #logo h5{
+        font-size: 14px;
+        font-weight: normal;
+        color: gray;
+    }
+
+
+    #logo h1{
+        font-size: 44px;
+        font-weight: bold;
+    }
+
+    nav{
+        float: right;
+       
+        margin-top: 15px;
+        line-height: 60px;
+        }
+        
+        nav a{
+        
+        text-decoration: none;
+        color:gray;
+        margin-left: 20px;
+        font-size:18px ;
+        }
+
+        .col{
+            width: 280px;
+            text-align: justify;
+            float: left;
+            margin:25px;
+            
+            
+            }
+            .col h3{
+                text-shadow: #303030;
+                padding: 15px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 20px;
+                font-weight: bold;
+                color:black;
+            }   
+
+
+
+
+.first{
+    background-color: #E8E8E8;
+    clear: both;
+    height: 70px;
+    width: 100%;
+    line-height:60px;
+    text-align: center;
+}    
+
+.sec{
+    background-color: #C8C8C8;
+    clear: both;
+    height:310px;
+    width: 100%;
+
+
+}
+
+.three{
+    background-color: gray;
+    clear: both;
+    height: 61px;
+    width: 100%;
+
+}
+
+.three a{
+float: right;
+padding: 9px;
+
+}     
+.three h4{
+   clear: both; 
+float: left;
+
+
+
+}       
+
+.comp{
+width:280px;
+height: 250px;
+margin: 25px;
+padding-top: 10px;
+text-align: justify;
+float: left;
+}
+
+.comp table tr td {
+ margin: 0;
+ padding: 0;  
+ text-align: left; 
+  
+   
+}
